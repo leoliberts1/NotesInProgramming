@@ -1,0 +1,10 @@
+
+customer1 ='''{
+     "cart":{
+         "1":{"name":"Soap","quantity":2},
+         "2":{"name":"Milk","quantity":3},
+         "3":{"name":"Apple","quantity":4},
+         "4":{"name":"Sugar","quantity":3}
+     }
+}
+'''
