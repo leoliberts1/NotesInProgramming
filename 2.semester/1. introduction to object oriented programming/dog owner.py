@@ -5,7 +5,7 @@ class dog:
         self.owner = None
     def setOwner(self,owner):
         self.owner = owner
-        person.dog = self
+        owner.dog = self
 d = dog("Lassie")
 class person:
     def __init__(self, name):
