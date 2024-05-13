@@ -45,8 +45,7 @@ while True:
     t1.start()
 
 
-
-
+{{a,{a}},{a,{0}},0,{{a,b,c},{1,2}},{{{a,b,c},{1,2}}},2,a}
 
 
 client_socket.close()
