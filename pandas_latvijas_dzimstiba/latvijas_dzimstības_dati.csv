@@ -1,8 +1,7 @@
-﻿"Dzimstības koeficienti (summārais, atražošanās, vispārīgais, vecumkoeficienti) – Laika periods un Dzimstības koeficienti"
-
+﻿
 "Laika periods";"Summārais dzimstības koeficients";"Atražošanās bruto koeficients";"Atražošanās neto koeficients";"Dzimstības vispārīgais koeficients";"Dzimstības vecumkoeficients sievietēm 15-49 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 15-19 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 20-24 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 25-29 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 30-34 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 35-39 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 40-44 gadu vecumā";"Dzimstības vecumkoeficients sievietēm 45-49 gadu vecumā"
-"1965";1.74;0.838;…;13.8;50.00;18.40;110.40;109.00;68.40;31.20;8.90;0.70
-"1970";2.01;0.981;…;14.6;54.00;27.70;146.90;118.50;69.70;31.80;7.60;0.50
+"1965";1.74;0.838;;13.8;50.00;18.40;110.40;109.00;68.40;31.20;8.90;0.70
+"1970";2.01;0.981;;14.6;54.00;27.70;146.90;118.50;69.70;31.80;7.60;0.50
 "1971";2.05;1.009;0.970;14.8;55.68;28.02;150.41;118.47;71.29;32.18;7.40;0.54
 "1972";2.03;0.976;0.950;14.6;55.14;26.77;149.18;119.15;70.39;32.34;7.28;0.44
 "1973";1.96;0.958;0.930;14.1;53.37;27.48;148.21;111.87;66.69;30.27;7.12;0.45
